@@ -3,7 +3,7 @@
 @description        This is the Naked Curvy NCoV19 edition for Just.game ( Curvy.One )
 @author             zirs3d
 @license            CC0-1.0
-@version            0.0.1
+@version            0.0.2
 @namespace https://greasyfork.org/users/517035
 ==/UserStyle== */
 
@@ -136,6 +136,10 @@
     }
     
     /* Button */
+    .text-copy .icon-copy {
+        opacity: 0.6 !important;
+    }
+
     .middle-tabs .tab-title:hover,
     .middle-tabs .active,
     .sidebar-main .tab-title:hover,
