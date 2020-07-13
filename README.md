@@ -1,6 +1,8 @@
 # curvy-pancake
 ##### sauce hooked on <a target='_blank' href='https://github.com/zirs3d/curvy-pancake'>github</a>
 
+Available on <a target='_blank' href='https://greasyfork.org/en/scripts/404742-just-game-naked-curvy'>greasyfork.org</a>
+
 This is the Naked Curvy NCoV19 edition for <a target='_blank' href='http://curvy.one'>Just.game ( Curvy.One )</a> 
 
 Steps on how to use User styles - 
